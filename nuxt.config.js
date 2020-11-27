@@ -7,11 +7,10 @@ export default theme({
   loading: { color: '#00CD81' },
   i18n: {
     locales: () => [{
-      code: 'en',
-      iso: 'en-US',
-      file: 'en-US.js',
-      name: 'English'
+      code: 'ja',
+      iso: 'ja_JP',
+      name: 'Japanese'
     }],
-    defaultLocale: 'en'
+    defaultLocale: 'ja'
   }
 })
