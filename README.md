@@ -1,5 +1,5 @@
 # nuxt_content
-
+url: https://naughty-tereshkova-778d63.netlify.app
 ## Setup
 
 Install dependencies:
